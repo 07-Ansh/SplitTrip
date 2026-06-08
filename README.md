@@ -120,7 +120,12 @@ Get notified when a trip member adds an expense or settles a debt — even when 
 
 Open **[splittrip.ansh.one](https://splittrip.ansh.one)** in any browser.
 
-On Android, tap **⋮ → Add to Home Screen** in Chrome for a full app-like experience with offline support.
+### 🍏 iOS (iPhone) PWA
+
+1. Open **[splittrip.ansh.one](https://splittrip.ansh.one)** in **Safari**.
+2. Tap the **Share** button (the square icon with an upward arrow) in the browser toolbar.
+3. Scroll down and tap **Add to Home Screen**.
+4. Tap **Add** in the top-right corner to install the app on your home screen.
 
 ### 📦 Android APK
 
