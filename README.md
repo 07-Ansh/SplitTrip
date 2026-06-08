@@ -116,9 +116,13 @@ Get notified when a trip member adds an expense or settles a debt — even when 
 
 ## 🚀 Get Started
 
-### 🌐 Web — Instant, No Install Required
+### 📦 Android APK
 
-Open **[splittrip.ansh.one](https://splittrip.ansh.one)** in any browser.
+1. Go to the [**Releases**](../../releases/latest) page
+2. Download the latest `splittrip.apk`
+3. Open the file on your device to install
+
+> ⚠️ You may need to enable **Install from unknown sources** in Android Settings → Security.
 
 ### 🍏 iOS (iPhone) PWA
 
@@ -127,13 +131,9 @@ Open **[splittrip.ansh.one](https://splittrip.ansh.one)** in any browser.
 3. Scroll down and tap **Add to Home Screen**.
 4. Tap **Add** in the top-right corner to install the app on your home screen.
 
-### 📦 Android APK
+### 🌐 Web — Instant, No Install Required
 
-1. Go to the [**Releases**](../../releases/latest) page
-2. Download the latest `splittrip.apk`
-3. Open the file on your device to install
-
-> ⚠️ You may need to enable **Install from unknown sources** in Android Settings → Security.
+Open **[splittrip.ansh.one](https://splittrip.ansh.one)** in any browser.
 
 ---
 
