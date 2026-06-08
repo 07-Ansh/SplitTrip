@@ -118,7 +118,7 @@ Get notified when a trip member adds an expense or settles a debt — even when 
 
 ### 🌐 Web — Instant, No Install Required
 
-Open **[splittrip-1879b.web.app](https://splittrip-1879b.web.app)** in any browser.
+Open **[splittrip.ansh.one](https://splittrip.ansh.one)** in any browser.
 
 On Android, tap **⋮ → Add to Home Screen** in Chrome for a full app-like experience with offline support.
 
