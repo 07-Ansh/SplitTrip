@@ -125,7 +125,7 @@ On Android, tap **⋮ → Add to Home Screen** in Chrome for a full app-like exp
 ### 📦 Android APK
 
 1. Go to the [**Releases**](../../releases/latest) page
-2. Download the latest `splittrip-v*.apk`
+2. Download the latest `splittrip.apk`
 3. Open the file on your device to install
 
 > ⚠️ You may need to enable **Install from unknown sources** in Android Settings → Security.
